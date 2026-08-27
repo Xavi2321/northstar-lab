@@ -4,6 +4,8 @@
 
 **Decisiones de negocio, antes de gastar.**
 
+### [Abrir la experiencia interactiva →](https://northstar-lab-xavi2321.teal-pine-5167.chatgpt.site)
+
 Northstar Lab es un caso de negocio interactivo que traduce decisiones cotidianas de una pyme —precio, demanda e inversión comercial— en resultados financieros comprensibles. El caso utiliza una cafetería urbana ficticia de Barcelona y datos sintéticos.
 
 ## El problema

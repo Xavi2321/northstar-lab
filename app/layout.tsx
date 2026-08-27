@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? 'http://localhost:3000'),
+  metadataBase: new URL('https://northstar-lab-xavi2321.teal-pine-5167.chatgpt.site'),
   title: 'Northstar Lab — Simulador de decisiones para pymes',
   description: 'Caso de negocio interactivo para explorar precio, demanda, costes y rentabilidad.',
   openGraph: {
